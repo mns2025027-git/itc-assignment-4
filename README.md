@@ -1,4 +1,4 @@
-```
+
 # RC4 WebAssembly — Assignment 4
 
 ## Project Overview
@@ -26,7 +26,7 @@ This project implements the RC4 stream cipher in native C, compiled to WebAssemb
 ---
 
 ## Getting Started
-```
+
 ### 1. Clone the Repository
 
 ```bash
