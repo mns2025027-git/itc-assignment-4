@@ -1,4 +1,4 @@
-```markdown
+```
 # RC4 WebAssembly — Assignment 4
 
 ## Project Overview
@@ -26,7 +26,7 @@ This project implements the RC4 stream cipher in native C, compiled to WebAssemb
 ---
 
 ## Getting Started
-
+```
 ### 1. Clone the Repository
 
 ```bash
@@ -51,7 +51,7 @@ npm run dev
 Visit:
 
 ```
-http://localhost:3000/rc4
+http://localhost:3000
 ```
 
 ---
@@ -83,8 +83,6 @@ Place both files inside the /public folder.
 - Encrypt: Input: plaintext + key → Output: ciphertext in hex (e.g. 39668cc2)
 - Decrypt: Input: hex ciphertext + same key → Output: original plaintext
 
-RC4 is symmetric — the same function is used for both encryption and decryption.
-
 ---
 
 ## UI Features
@@ -96,4 +94,3 @@ RC4 is symmetric — the same function is used for both encryption and decryptio
 - Result display area
 ```
 
-Let me know if you want to add a demo example or viva explanation section next.
